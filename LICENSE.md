@@ -1,4 +1,4 @@
-# 
+# GitKraken for PC | GitKraken for Windows instant Extension: stashing & cherry-picking offers the most advanced GitKraken for PC | GitKraken for Windows extension, with stashing
 
 
 
